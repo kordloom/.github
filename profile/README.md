@@ -27,6 +27,7 @@ command. AI agents operate under the same gates and the same audit as human
 operators.
 
 - Site: [switchtender.com](https://switchtender.com)
+- Live demo: [demo.switchtender.com](https://demo.switchtender.com)
 - Code: [kordloom/switchtender](https://github.com/kordloom/switchtender)
 - Install: [releases](https://github.com/kordloom/switchtender/releases) or `brew install kordloom/tap/switchtender`
 
@@ -37,6 +38,7 @@ subject across Slack, GitHub, docs, and tickets, and see where the answer rests 
 one person. Self-hosted, local by default, and it works with or without an LLM.
 
 - Site: [whodar.dev](https://whodar.dev)
+- Live demo: [demo.whodar.dev](https://demo.whodar.dev)
 - Code: [kordloom/whodar](https://github.com/kordloom/whodar)
 - Install: [releases](https://github.com/kordloom/whodar/releases) or `brew install kordloom/tap/whodar`
 
