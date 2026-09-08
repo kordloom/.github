@@ -36,7 +36,9 @@ Know who knows. An expertise locator for teams: find who to talk to about a
 subject across Slack, GitHub, docs, and tickets, and see where the answer rests on
 one person. Self-hosted, local by default, and it works with or without an LLM.
 
+- Site: [whodar.com](https://whodar.com)
 - Code: [kordloom/whodar](https://github.com/kordloom/whodar)
+- Install: [releases](https://github.com/kordloom/whodar/releases) or `brew install kordloom/tap/whodar`
 
 ## LoomSeal
 
