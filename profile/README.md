@@ -31,17 +31,6 @@ operators.
 - Code: [kordloom/switchtender](https://github.com/kordloom/switchtender)
 - Install: [releases](https://github.com/kordloom/switchtender/releases) or `brew install kordloom/tap/switchtender`
 
-## Whodar
-
-Know who knows. An expertise locator for teams: find who to talk to about a
-subject across Slack, GitHub, docs, and tickets, and see where the answer rests on
-one person. Self-hosted, local by default, and it works with or without an LLM.
-
-- Site: [whodar.dev](https://whodar.dev)
-- Live demo: [demo.whodar.dev](https://demo.whodar.dev)
-- Code: [kordloom/whodar](https://github.com/kordloom/whodar)
-- Install: [releases](https://github.com/kordloom/whodar/releases) or `brew install kordloom/tap/whodar`
-
 ## LoomSeal
 
 An open format for evidence someone else can check. One signed, chained,
@@ -54,5 +43,5 @@ conformance vectors.
 - Spec: [FORMAT.md](https://github.com/kordloom/loomseal/blob/main/FORMAT.md)
 - CI: [loomseal-verify-action](https://github.com/kordloom/loomseal-verify-action)
 
-SwitchTender and Whodar are fabric from this loom. LoomSeal is the warp beneath
-them, and beneath what comes next.
+SwitchTender is fabric from this loom. LoomSeal is the warp beneath it, and
+beneath what comes next.
