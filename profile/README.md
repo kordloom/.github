@@ -14,7 +14,7 @@ because of them. KordLoom's warp is proof. Trust in a world of AI cannot rest on
 vendor's word, so where a KordLoom product acts, measures, or keeps a record, it can
 show evidence anyone can verify.
 
-Three products are public today. More are being built, and each one appears here
+Two products are public today. More are being built, and each one appears here
 when it ships, not before.
 
 ## SwitchTender
